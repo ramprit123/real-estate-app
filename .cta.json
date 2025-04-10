@@ -1,0 +1,22 @@
+{
+  "framework": "react",
+  "typescript": true,
+  "projectName": "my-app",
+  "mode": "file-router",
+  "tailwind": true,
+  "packageManager": "npm",
+  "toolchain": "none",
+  "variableValues": {},
+  "git": true,
+  "version": 1,
+  "existingAddOns": [
+    "clerk",
+    "convex",
+    "form",
+    "netlify",
+    "shadcn",
+    "store",
+    "table",
+    "tanstack-query"
+  ]
+}
